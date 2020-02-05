@@ -10,7 +10,13 @@ Criar o projeto: django-admin startproject crud .
 
 Criar o aplicativo: django-admin startapp core
 
-Criar tabela no banco apartir do model:  python manage.py makemigrations,   python manage.py migration
+Criar tabela no banco apartir do model:  python manage.py makemigrations,   python manage.py migrate
+
+Criar o superuser: python manage.py createsuperuser  
+
+Rodar o servidor: python manage.py runserver  
+
+
 
 
 
